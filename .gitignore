@@ -1,0 +1,5 @@
+# 忽略 .iml 文件
+*.iml
+
+# 忽略 .idea 目录下的所有 .xml 文件
+.idea/*.xml
